@@ -6,7 +6,7 @@
 
 ## 🚀 Project Title & Track
 **Title:** Cafers — Decentralized Agro Marketplace  
-**Track:** Web3 / Blockchain — Hedera Integration for AgTech Marketplaces (PoC → Prototype)
+**Track:** DLT for Operations (PoC → Prototype)
 
 ---
 
